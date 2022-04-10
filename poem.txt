@@ -1,4 +1,4 @@
-The Rainbow and the unicorn
+The Rainbow and the unicorn and the star
 
 Blue
 purple
@@ -10,3 +10,4 @@ yellow
 unicorn
 These are the color of rainbow.
 and the unicorn
+star
