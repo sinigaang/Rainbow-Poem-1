@@ -9,6 +9,7 @@ red
 yellow
 unicorn
 indigo
+recycle!
 These are the color of rainbow.
 and the unicorn
 star
